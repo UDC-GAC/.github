@@ -1,4 +1,4 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://gac.udc.es/~juan/images/logogac.png" width="60%"></a></p>
+<p align="center"><a href="https://gac.udc.es/inicio.html" target="_blank"><img src="https://gac.udc.es/~juan/images/logogac.png" width="60%"></a></p>
 
 <h1 align="center">Computer Architecture Group (GAC)</h1>
 
