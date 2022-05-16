@@ -9,5 +9,6 @@ The main research activity of the Computer Architecture Group is high-performanc
 	<li>Computer graphics and scientific visualization</li>
 	<li>High performance microprocessors</li>
 	<li>Mobile robotics and computer vision</li>
+	<li>Performance study of Big Data applications and frameworks</li>
 	<li>Geographic Information Systems</li>
 </ul>
