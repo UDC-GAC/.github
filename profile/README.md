@@ -1,4 +1,4 @@
-<p align="center"><a href="https://gac.udc.es" target="_blank"><img src="https://gac.udc.es/~inaki/images/gac-ingles.svg" width="55%"></a></p>
+<p align="center"><a href="https://gac.udc.es" target="_blank"><img src="https://raw.githubusercontent.com/UDC-GAC/.github/master/resources/gac-ingles.svg" width="55%"></a></p>
 
 <h1 align="center">Computer Architecture Group (GAC)</h1>
 
